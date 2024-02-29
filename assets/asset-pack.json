@@ -1,0 +1,51 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/animation/boyRunning.json",
+                "type": "animation",
+                "key": "boyRunning"
+            },
+            {
+                "url": "assets/cat_.png",
+                "frameConfig": {
+                    "frameWidth": 204,
+                    "frameHeight": 204,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cat_"
+            },
+            {
+                "url": "src/components/Cat_.js",
+                "type": "script",
+                "key": "Cat_"
+            },
+            {
+                "url": "assets/animation/catRun.json",
+                "type": "animation",
+                "key": "catRun"
+            },
+            {
+                "url": "assets/animation/catRunning.json",
+                "type": "animation",
+                "key": "catRunning"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
